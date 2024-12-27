@@ -33,3 +33,8 @@ Here is what the dropdown looks like:
 
    ```bash
    npm install
+
+3. Run Project:
+
+   ```bash
+   npm run dev

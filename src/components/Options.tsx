@@ -1,7 +1,7 @@
 import { FiChevronDown, FiChevronUp } from "react-icons/fi";
 import { OptionComponent } from "./Option";
 import { useState } from "react";
-import { Option } from "./types";
+import { Option } from "../types";
 
 interface PropsType {
     options: Option[]

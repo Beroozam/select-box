@@ -1,5 +1,5 @@
 import {FiCheck} from 'react-icons/fi'
-import { Option } from './types'
+import { Option } from '../types'
 
 interface PropsType {
     option: Option
